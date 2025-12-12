@@ -30,3 +30,4 @@ install.packages(c(
   "shiny", "tidyverse", "janitor",
   "readxl", "readr", "stringr"
 ))
+shiny::runApp()
