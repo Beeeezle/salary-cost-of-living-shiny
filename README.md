@@ -1,5 +1,5 @@
 # Salary & Cost-of-Living Comparison App
-
+This repository contains all source code and data required to run the app locally.
 This Shiny application estimates salaries across U.S. locations using a
 regression model and adjusts them for cost of living differences.
 
