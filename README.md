@@ -1,0 +1,1 @@
+# salary-cost-of-living-shiny
