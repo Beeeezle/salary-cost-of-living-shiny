@@ -1,4 +1,3 @@
-# salary-cost-of-living-shiny
 # Salary & Cost-of-Living Comparison App
 
 This Shiny application estimates salaries across U.S. locations using a
